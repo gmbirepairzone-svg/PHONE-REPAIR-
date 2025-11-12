@@ -16,7 +16,7 @@ Welcome to this repository — a collection of useful resources, tutorials, and 
 
 ## 🔗 Recommended Resource
 Check out this helpful site for more information and services:  
-👉 [https://phoneexpert.com](https://phoneexpert.com)
+👉https://phoneexpert.uk/
 
 ---
 
